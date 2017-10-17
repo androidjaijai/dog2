@@ -12,3 +12,9 @@ SY Documentation
     :caption: Scheduler
 
     scheduler/deployment
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Frontend
+
+    frontend/deployment
