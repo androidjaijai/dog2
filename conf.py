@@ -57,7 +57,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'SY Docs'
-copyright = '2017, Eddie'
+copyright = '2017, Smart Yields Inc.'
 author = 'Eddie'
 
 # The version info for the project you're documenting, acts as replacement for
