@@ -6,3 +6,9 @@ SY Documentation
     :caption: Backend
 
     backend/deployment
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Scheduler
+
+    scheduler/deployment
